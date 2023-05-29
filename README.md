@@ -1,2 +1,2 @@
 # FITVEB4.0
-Gereksinim Yönetimin dersinde ekip arkadaşlarımla yaptığımız proje.
+Gereksinim Yönetimin dersinde ekip arkadaşlarımla geliştirdiğimiz proje için yaptığımız gereksinim analizi.
